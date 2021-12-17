@@ -1,4 +1,4 @@
-# c_f
+# dena-review
 connect four
 
 四目並べの実装
